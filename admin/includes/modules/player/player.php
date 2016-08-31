@@ -1,0 +1,1 @@
+<?php	include $_MODULES_PATH.'player/player_types/player_normal.php';?>

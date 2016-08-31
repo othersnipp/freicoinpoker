@@ -1,0 +1,1 @@
+function Game(){	this.displayProfile=function (id){		exec('game_display_profile','id='+id);	}//}//end class

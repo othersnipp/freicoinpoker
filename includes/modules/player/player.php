@@ -1,0 +1,1 @@
+<?php	include_once($_MODULES_PATH.'player/player_types/player_'.$_USER_TYPE.'.php');?>

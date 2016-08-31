@@ -1,0 +1,1 @@
+<?php	$server=new Server(cp('id'));	$server->checkOnline();	$smarty->assign('server',$server);?>

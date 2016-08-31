@@ -1,0 +1,47 @@
+body {
+	background-color:gray;
+}
+#outline {
+	width: 1024px;
+	height: 1000px;
+	margin: 0 auto;
+	margin-top: 20px;
+	background-image: url(../images/background.png);
+}
+#header {
+	width: 1024px;
+	height: 108px;
+	position:relative;
+	margin-top: 20px;
+	float: left;	
+}
+
+#logo {
+	width: 291px;
+	height: 108px;
+        margin-left: 30px;
+	float: left;
+}
+#head_action {
+	width: 400px;
+	background: #b0c4de;
+	heigth: 108px;
+	float: right;
+	margin-top: 40px;
+}
+#maintable {
+	width: 791px;
+	height: 675px;
+	float: left;
+	background-image: url(../images/table_bg.png);
+	margin-left: 8px;
+	margin-top: 50px;
+}
+#infobox {
+	width: 210px;
+	margin-right: 6px;
+        margin-top: 50px;
+	height: 675px;
+	background-color: #b0c4de;
+	float: right;
+}

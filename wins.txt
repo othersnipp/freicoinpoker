@@ -1,0 +1,13 @@
+Array
+(
+    [21114] => Array
+        (
+            [0] => 3
+        )
+
+)
+
+
+got 1 winners with score of 21114
+ - checking winner 3 :
+ - Winner is omk 5 has $ 100 :

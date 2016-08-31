@@ -1,0 +1,1 @@
+<?php	$table=$db->getRow("select * from tables where id='".cp('id')."'");	$blinds=explode('/',$table->blinds);	$table->small_blind=$blinds[0];		$servers=$db->getRows("select * from server order by id");		$smarty->assign('servers',$servers);	$smarty->assign('table',$table);?>

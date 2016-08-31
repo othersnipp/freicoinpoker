@@ -1,0 +1,1 @@
+<?php//Get Tables		$servers=$db->getRows("select * from server order by id");		$smarty->assign('servers',$servers);?>

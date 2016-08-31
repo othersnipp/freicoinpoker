@@ -1,0 +1,1 @@
+<?php$_PAGE_TITLE='Packages Prices';if ($action=='delete'){	$id=cg('package');	$db->query("delete from prices where id='$id'");}$prices=$db->getRows("select * from prices order by chips asc");$smarty->assign('prices',$prices);?>
